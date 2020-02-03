@@ -1,1 +1,1 @@
-# starter-pack
+# html-starter-pack
